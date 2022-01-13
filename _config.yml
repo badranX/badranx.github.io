@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: [The title of your site]
 description: [A short description of your site's purpose]
 logo: ./id.png
+show_downloads: true
