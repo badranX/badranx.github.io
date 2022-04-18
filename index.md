@@ -8,9 +8,9 @@ Hello, I'm Yahya Badran, a software developer. I work on Machine learning, graph
 
 - [Lang x Lang](https://www.langxlang.com) (**Creator**): An NLP project that will be open sourced in the future.
 
-- [opus_raw](https://huggingface.co/datasets/badranx/opus_raw): Interfacing OPUS datasets.
+- [opus_raw](https://huggingface.co/datasets/badranx/opus_raw): OPUS datasets with Huggingface API.
 
 ### Links:
 
-- [Github account](github.com/badranX)
-- [My blog](tech-tweaking.blogspot.com)
+- [Github account](www.github.com/badranX)
+- [My blog](www.tech-tweaking.blogspot.com)
