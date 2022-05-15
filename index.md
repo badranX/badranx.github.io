@@ -18,6 +18,4 @@ Hello, I'm Yahya Badran, a software developer. I work on Machine learning, graph
 ## CV:
 
 [CV Link](/cv_badran.pdf)
-<div>
-	<embed type="application/pdf" src="/cv_badran.pdf" width="100%" height="100%">
-</div>
+<embed type="application/pdf" src="/cv_badran.pdf" width="100%" height="100%">
