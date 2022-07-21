@@ -15,7 +15,9 @@ Hello, I'm Yahya Badran, a software developer. I work on Machine learning, graph
 - [Github account](https://github.com/badranX)
 - [My blog](https://tech-tweaking.blogspot.com)
 
+<!---
 ## CV:
 
 [CV Link](/cv_badran.pdf)
 <embed type="application/pdf" src="/cv_badran.pdf" width="100%" height="700px">
+-->
