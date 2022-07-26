@@ -2,13 +2,15 @@
 
 Hello, I'm Yahya Badran, a software developer. I work on Machine learning, graphics; and website devlopment.
 
-### Projects:
+### Some of my Projects:
 
 - [Bt-lib](https://github.com/badranx/bt-lib) : A Bluetooth API for the Unity Game Engine. It enables multiple connections and  gives the user a simple way of handling threads to avoid overhead for video games.
 
 - [Data Analyst: predicting revenue](https://github.com/badranX/jupyter-prices-expectation/blob/master/main.ipynb): Predicting revenue for different payment plans. The result is a model that maps payment feature to revenue expectation.
 
 - [Data Analyst: analysing perfromance over time](https://github.com/badranX/jupyter-performance-analysis/blob/master/main.ipynb): Analysing the performance of an App over a period of time.
+
+- [Trying to learn german](https://github.com/badranX/german-frequency): Personal project to analyse the German language and learn it quickly. It inspired langXlang.com (which uses a closed source code).
 
 - [vanilla-transformer](https://github.com/badranX/vanilla-transformer): Reimplementing the vanilla transformer with the latest pytorch version without jupyter in order to consume it as API.
 
